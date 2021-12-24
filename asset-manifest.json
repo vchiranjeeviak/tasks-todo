@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taskstodo/static/css/main.8e37a914.css",
+    "main.js": "/taskstodo/static/js/main.b04a9c4d.js",
+    "index.html": "/taskstodo/index.html",
+    "main.8e37a914.css.map": "/taskstodo/static/css/main.8e37a914.css.map",
+    "main.b04a9c4d.js.map": "/taskstodo/static/js/main.b04a9c4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e37a914.css",
+    "static/js/main.b04a9c4d.js"
+  ]
+}
